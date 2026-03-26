@@ -107,14 +107,14 @@ if page == "Home":
     - Average Lap Time Prediction
     - Driver Performance Clustering
     - Composite Driver Rating System
+    - Podium Probability 
+    - Tyre Degradation & Pace Analysis
     """)
 
     st.subheader("Models Used")
-    st.divider()
 
     st.write("""
     - Random Forest Regressor
-    - XGBoost Regressor
     - KMeans Clustering
     """)
 
